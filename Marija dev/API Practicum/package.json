@@ -1,0 +1,23 @@
+{
+  "name": "marija-api-practicum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daliborka29/Marija-Petrovic-iwh-i-practicum.git"
+  },
+  "author": "Marija",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daliborka29/Marija-Petrovic-iwh-i-practicum/issues"
+  },
+  "homepage": "https://github.com/Daliborka29/Marija-Petrovic-iwh-i-practicum#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
